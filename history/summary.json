@@ -22,7 +22,7 @@
     "url": "https://tienda.cruzasesorjuridico.com",
     "icon": "https://favicons.githubusercontent.com/tienda.cruzasesorjuridico.com",
     "slug": "tienda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 484,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-12": 0
+    }
   },
   {
     "name": "Videollamadas para clientes",
