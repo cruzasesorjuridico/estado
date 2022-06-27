@@ -46,7 +46,7 @@
     "url": "https://clientes.cruzasesorjuridico.com",
     "icon": "https://favicons.githubusercontent.com/clientes.cruzasesorjuridico.com",
     "slug": "videollamadas-para-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -58,6 +58,7 @@
     "timeMonth": 1095,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2022-06-27": 0,
       "2022-06-21": 27
     }
   }
