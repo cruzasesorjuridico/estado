@@ -5,10 +5,10 @@ repo: estado # The name of this repository
 sites:
   - name: Web Principal
     url: https://cruzasesorjuridico.com
-  - name: Tienda
-    url: https://tienda.cruzasesorjuridico.com
-  - name: Videollamadas para clientes
-    url: https://clientes.cruzasesorjuridico.com
+  - name: VPS
+    url: https://vps.cruzasesorjuridico.com
+  - name: Servicio de citas
+    url: https://book.cruzasesorjuridico.com
 
 status-website:
   theme: ocean
