@@ -44,7 +44,7 @@
     "url": "https://book.cruzasesorjuridico.com",
     "icon": "https://favicons.githubusercontent.com/book.cruzasesorjuridico.com",
     "slug": "servicio-de-citas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +55,8 @@
     "timeWeek": 1165,
     "timeMonth": 1045,
     "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-08": 0
+    }
   }
 ]
