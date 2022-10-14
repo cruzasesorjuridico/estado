@@ -27,19 +27,19 @@
     "url": "https://vps.cruzasesorjuridico.com",
     "icon": "https://icons.duckduckgo.com/ip3/vps.cruzasesorjuridico.com.ico",
     "slug": "vps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 501,
-    "timeWeek": 603,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "40.26%",
+    "uptimeWeek": "91.47%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.76%",
+    "time": 598,
+    "timeDay": 567,
+    "timeWeek": 614,
+    "timeMonth": 600,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2022-10-14": 0
+      "2022-10-14": 860
     }
   },
   {
