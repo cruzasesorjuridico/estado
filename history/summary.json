@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.02%",
-    "time": 3158,
-    "timeDay": 2976,
-    "timeWeek": 2124,
-    "timeMonth": 2039,
-    "timeYear": 3953,
+    "time": 3160,
+    "timeDay": 1651,
+    "timeWeek": 2127,
+    "timeMonth": 2013,
+    "timeYear": 3956,
     "dailyMinutesDown": {
       "2024-05-14": 43,
       "2024-04-21": 53,
@@ -86,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.cruzasesorjuridico.com.ico",
     "slug": "vps",
     "status": "down",
-    "uptime": "38.48%",
+    "uptime": "38.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 356,
+    "time": 354,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 228,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-09-18": 84,
+      "2024-09-19": 86,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -460,8 +461,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   },
   {
@@ -470,18 +470,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.cruzasesorjuridico.com.ico",
     "slug": "servicio-de-citas",
     "status": "down",
-    "uptime": "53.82%",
+    "uptime": "53.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.94%",
-    "time": 1682,
+    "uptimeYear": "5.67%",
+    "time": 1689,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2123,
+    "timeYear": 2162,
     "dailyMinutesDown": {
-      "2024-09-18": 84,
+      "2024-09-19": 86,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -826,8 +827,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 206,
-      "2023-09-23": 136,
-      "2023-09-20": 21
+      "2023-09-23": 136
     }
   }
 ]
