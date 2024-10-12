@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.08%",
-    "time": 3214,
-    "timeDay": 1538,
-    "timeWeek": 2160,
-    "timeMonth": 2129,
-    "timeYear": 4033,
+    "uptimeYear": "88.35%",
+    "time": 3217,
+    "timeDay": 2029,
+    "timeWeek": 2215,
+    "timeMonth": 2143,
+    "timeYear": 4029,
     "dailyMinutesDown": {
       "2024-05-14": 43,
       "2024-04-21": 53,
@@ -73,8 +73,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -83,18 +82,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.cruzasesorjuridico.com.ico",
     "slug": "vps",
     "status": "down",
-    "uptime": "37.34%",
+    "uptime": "37.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 304,
+    "time": 303,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 95,
+      "2024-10-12": 86,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -457,8 +457,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -467,18 +466,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.cruzasesorjuridico.com.ico",
     "slug": "servicio-de-citas",
     "status": "down",
-    "uptime": "52.22%",
+    "uptime": "52.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1856,
+    "time": 1868,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 95,
+      "2024-10-12": 86,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -841,8 +841,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   }
 ]
