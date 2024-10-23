@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cruzasesorjuridico.com.ico",
     "slug": "web-principal",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.10%",
-    "time": 3230,
-    "timeDay": 2497,
-    "timeWeek": 1866,
-    "timeMonth": 2055,
-    "timeYear": 3988,
+    "uptimeYear": "91.37%",
+    "time": 3232,
+    "timeDay": 2062,
+    "timeWeek": 1892,
+    "timeMonth": 2071,
+    "timeYear": 3984,
     "dailyMinutesDown": {
       "2024-05-14": 43,
       "2024-04-21": 53,
@@ -62,8 +62,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -72,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.cruzasesorjuridico.com.ico",
     "slug": "vps",
     "status": "down",
-    "uptime": "36.82%",
+    "uptime": "36.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 278,
+    "time": 276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 97,
+      "2024-10-23": 96,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -446,8 +446,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -456,18 +455,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.cruzasesorjuridico.com.ico",
     "slug": "servicio-de-citas",
     "status": "down",
-    "uptime": "51.49%",
+    "uptime": "51.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1995,
+    "time": 2008,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 97,
+      "2024-10-23": 96,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -830,8 +830,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   }
 ]
